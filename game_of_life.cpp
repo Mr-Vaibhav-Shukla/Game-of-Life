@@ -1,5 +1,6 @@
 #include<iostream>
 #include<stdio.h>
+using namespace std;
 int next_generation(int a[100][100],int m,int n,int gen)		//Function to print next generation
 {
 	int b[m+2][n+2],c[100][100];			

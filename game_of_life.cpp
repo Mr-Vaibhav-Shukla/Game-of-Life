@@ -91,6 +91,7 @@ int next_generation(int a[100][100],int m,int n,int gen)		//Function to print ne
 		}
 	}
 	cout<<"GOOD BYE"<<endl;
+	cout<<"Press Ctrl + z"<<endl;
 	return 0;
 }
 int main()
